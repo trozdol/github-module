@@ -1,0 +1,19 @@
+{
+  "name": "github-module",
+  "version": "1.0.0",
+  "description": "Test Module install from github",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/trozdol/github-module.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/trozdol/github-module/issues"
+  },
+  "homepage": "https://github.com/trozdol/github-module#readme"
+}
